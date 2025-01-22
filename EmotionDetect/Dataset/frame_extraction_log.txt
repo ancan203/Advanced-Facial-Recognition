@@ -1,0 +1,22 @@
+Frame Extraction Log
+====================
+Class: Angry
+  Total frames extracted: 2284
+  Train frames (expected): 1827, Actual: 1873
+  Validation frames (expected): 457, Actual: 495
+
+Class: Background
+  Total frames extracted: 2272
+  Train frames (expected): 1817, Actual: 1852
+  Validation frames (expected): 455, Actual: 497
+
+Class: Happy
+  Total frames extracted: 2257
+  Train frames (expected): 1805, Actual: 1871
+  Validation frames (expected): 452, Actual: 512
+
+Class: Sad
+  Total frames extracted: 2259
+  Train frames (expected): 1807, Actual: 1849
+  Validation frames (expected): 452, Actual: 501
+
